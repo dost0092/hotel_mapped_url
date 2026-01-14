@@ -1,7 +1,7 @@
 ![Alt text](map_url_workflow.png)
 
 
-# 🏨 Hilton Hotel URL Mapping Tool
+# 🏨Hotel URL Mapping
 
 This program finds and maps **Hilton hotels listed on the official Hilton website** to the hotels present in your **Excel file**, based on location and name similarity.
 
