@@ -1,0 +1,1380 @@
+[
+
+  {
+    "continent": "North America",
+    "location_name": "Alaska",
+    "url": "https://www.hilton.com/en/locations/usa/alaska/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Alabama",
+    "url": "https://www.hilton.com/en/locations/usa/alabama/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Arizona",
+    "url": "https://www.hilton.com/en/locations/usa/arizona/phoenix/"
+  },
+
+  {
+    "continent": "North America",
+    "location_name": "Arizona",
+    "url": "https://www.hilton.com/en/locations/usa/arizona/tucson/"
+  },
+    {
+    "continent": "North America",
+    "location_name": "Arizona",
+    "url": "https://www.hilton.com/en/locations/usa/arizona/scottsdale/"
+  },
+  
+    {
+    "continent": "North America",
+    "location_name": "Arizona",
+    "url": "https://www.hilton.com/en/locations/usa/arizona/tempe/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Arkansas",
+    "url": "https://www.hilton.com/en/locations/usa/arkansas/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "California",
+    "url": "https://www.hilton.com/en/locations/usa/california/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Colorado",
+    "url": "https://www.hilton.com/en/locations/usa/colorado/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Connecticut",
+    "url": "https://www.hilton.com/en/locations/usa/connecticut/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Delaware",
+    "url": "https://www.hilton.com/en/locations/usa/delaware/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "District of Columbia",
+    "url": "https://www.hilton.com/en/locations/usa/district-of-columbia/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Florida",
+    "url": "https://www.hilton.com/en/locations/usa/florida/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Georgia",
+    "url": "https://www.hilton.com/en/locations/usa/georgia/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Hawaii",
+    "url": "https://www.hilton.com/en/locations/usa/hawaii/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Idaho",
+    "url": "https://www.hilton.com/en/locations/usa/idaho/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Illinois",
+    "url": "https://www.hilton.com/en/locations/usa/illinois/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Indiana",
+    "url": "https://www.hilton.com/en/locations/usa/indiana/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Iowa",
+    "url": "https://www.hilton.com/en/locations/usa/iowa/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Kansas",
+    "url": "https://www.hilton.com/en/locations/usa/kansas/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Kentucky",
+    "url": "https://www.hilton.com/en/locations/usa/kentucky/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Louisiana",
+    "url": "https://www.hilton.com/en/locations/usa/louisiana/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Maine",
+    "url": "https://www.hilton.com/en/locations/usa/maine/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Maryland",
+    "url": "https://www.hilton.com/en/locations/usa/maryland/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Massachusetts",
+    "url": "https://www.hilton.com/en/locations/usa/massachusetts/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Michigan",
+    "url": "https://www.hilton.com/en/locations/usa/michigan/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Minnesota",
+    "url": "https://www.hilton.com/en/locations/usa/minnesota/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Mississippi",
+    "url": "https://www.hilton.com/en/locations/usa/mississippi/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Missouri",
+    "url": "https://www.hilton.com/en/locations/usa/missouri/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Montana",
+    "url": "https://www.hilton.com/en/locations/usa/montana/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Nebraska",
+    "url": "https://www.hilton.com/en/locations/usa/nebraska/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Nevada",
+    "url": "https://www.hilton.com/en/locations/usa/nevada/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "New Hampshire",
+    "url": "https://www.hilton.com/en/locations/usa/new-hampshire/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "New Jersey",
+    "url": "https://www.hilton.com/en/locations/usa/new-jersey/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "New Mexico",
+    "url": "https://www.hilton.com/en/locations/usa/new-mexico/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "New York",
+    "url": "https://www.hilton.com/en/locations/usa/new-york/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "North Carolina",
+    "url": "https://www.hilton.com/en/locations/usa/north-carolina/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "North Dakota",
+    "url": "https://www.hilton.com/en/locations/usa/north-dakota/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Ohio",
+    "url": "https://www.hilton.com/en/locations/usa/ohio/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Oklahoma",
+    "url": "https://www.hilton.com/en/locations/usa/oklahoma/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Oregon",
+    "url": "https://www.hilton.com/en/locations/usa/oregon/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Pennsylvania",
+    "url": "https://www.hilton.com/en/locations/usa/pennsylvania/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Rhode Island",
+    "url": "https://www.hilton.com/en/locations/usa/rhode-island/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "South Carolina",
+    "url": "https://www.hilton.com/en/locations/usa/south-carolina/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "South Dakota",
+    "url": "https://www.hilton.com/en/locations/usa/south-dakota/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Tennessee",
+    "url": "https://www.hilton.com/en/locations/usa/tennessee/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Texas",
+    "url": "https://www.hilton.com/en/locations/usa/texas/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Utah",
+    "url": "https://www.hilton.com/en/locations/usa/utah/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Vermont",
+    "url": "https://www.hilton.com/en/locations/usa/vermont/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Virginia",
+    "url": "https://www.hilton.com/en/locations/usa/virginia/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Washington",
+    "url": "https://www.hilton.com/en/locations/usa/washington/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "West Virginia",
+    "url": "https://www.hilton.com/en/locations/usa/west-virginia/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Wisconsin",
+    "url": "https://www.hilton.com/en/locations/usa/wisconsin/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Wyoming",
+    "url": "https://www.hilton.com/en/locations/usa/wyoming/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Canada Search",
+    "url": "https://www.hilton.com/en/locations/canada/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Alberta",
+    "url": "https://www.hilton.com/en/locations/canada/alberta/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "British Columbia",
+    "url": "https://www.hilton.com/en/locations/canada/british-columbia/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Manitoba",
+    "url": "https://www.hilton.com/en/locations/canada/manitoba/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "New Brunswick",
+    "url": "https://www.hilton.com/en/locations/canada/new-brunswick/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Newfoundland/Labr.",
+    "url": "https://www.hilton.com/en/locations/canada/newfoundland-labr/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Nova Scotia",
+    "url": "https://www.hilton.com/en/locations/canada/nova-scotia/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Ontario",
+    "url": "https://www.hilton.com/en/locations/canada/ontario/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Prince Edward Island",
+    "url": "https://www.hilton.com/en/locations/canada/prince-edward-island/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Quebec",
+    "url": "https://www.hilton.com/en/locations/canada/quebec/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Saskatchewan",
+    "url": "https://www.hilton.com/en/locations/canada/saskatchewan/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Mexico Search",
+    "url": "https://www.hilton.com/en/locations/mexico/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Aguascalientes",
+    "url": "https://www.hilton.com/en/locations/mexico/aguascalientes/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Apodaca",
+    "url": "https://www.hilton.com/en/locations/mexico/ciudad-apodaca/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Boca del Rio",
+    "url": "https://www.hilton.com/en/locations/mexico/boca-del-rio/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Cabo San Lucas",
+    "url": "https://www.hilton.com/en/locations/mexico/cabo-san-lucas/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Cancun",
+    "url": "https://www.hilton.com/en/locations/mexico/cancun/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Celaya",
+    "url": "https://www.hilton.com/en/locations/mexico/celaya/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Chihuahua",
+    "url": "https://www.hilton.com/en/locations/mexico/chihuahua/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Ciudad de Mexico",
+    "url": "https://www.hilton.com/en/locations/mexico/mexico-city/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Ciudad del Carmen",
+    "url": "https://www.hilton.com/en/locations/mexico/ciudad-del-carmen/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Ciudad Juarez",
+    "url": "https://www.hilton.com/en/locations/mexico/ciudad-juarez/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Ciudad Victoria",
+    "url": "https://www.hilton.com/en/locations/mexico/ciudad-victoria/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Durango",
+    "url": "https://www.hilton.com/en/locations/mexico/durango/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "El Salto",
+    "url": "https://www.hilton.com/en/locations/mexico/el-salto/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Guadalajara",
+    "url": "https://www.hilton.com/en/locations/mexico/guadalajara/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Hermosillo",
+    "url": "https://www.hilton.com/en/locations/mexico/hermosillo/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Irapuato",
+    "url": "https://www.hilton.com/en/locations/mexico/irapuato/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "La Paz",
+    "url": "https://www.hilton.com/en/locations/mexico/la-paz/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Leon",
+    "url": "https://www.hilton.com/en/locations/mexico/leon-gto/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Leon GTO",
+    "url": "https://www.hilton.com/en/locations/mexico/leon-gto/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Los Cabos",
+    "url": "https://www.hilton.com/en/locations/mexico/los-cabos/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Mazatlan",
+    "url": "https://www.hilton.com/en/locations/mexico/mazatlan/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Mazunte",
+    "url": "https://www.hilton.com/en/locations/mexico/mazunte/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Merida",
+    "url": "https://www.hilton.com/en/locations/mexico/merida/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Mérida",
+    "url": "https://www.hilton.com/en/locations/mexico/merida/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Mexico City",
+    "url": "https://www.hilton.com/en/locations/mexico/mexico-city/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Monterrey",
+    "url": "https://www.hilton.com/en/locations/mexico/monterrey/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Nuevo Vallarta",
+    "url": "https://www.hilton.com/en/locations/mexico/nuevo-vallarta/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Paraiso",
+    "url": "https://www.hilton.com/en/locations/mexico/paraiso/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Piedras Negras",
+    "url": "https://www.hilton.com/en/locations/mexico/piedras-negras/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Playa del Carmen",
+    "url": "https://www.hilton.com/en/locations/mexico/playa-del-carmen/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Puebla",
+    "url": "https://www.hilton.com/en/locations/mexico/puebla/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Puerto Vallarta",
+    "url": "https://www.hilton.com/en/locations/mexico/puerto-vallarta/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Punta de Mita",
+    "url": "https://www.hilton.com/en/locations/mexico/punta-de-mita/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Queretaro",
+    "url": "https://www.hilton.com/en/locations/mexico/queretaro/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Reynosa",
+    "url": "https://www.hilton.com/en/locations/mexico/reynosa/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Salamanca",
+    "url": "https://www.hilton.com/en/locations/mexico/salamanca/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Saltillo",
+    "url": "https://www.hilton.com/en/locations/mexico/saltillo/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "San Andres Cholula",
+    "url": "https://www.hilton.com/en/locations/mexico/san-andres-cholula/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "San Jose del Cabo",
+    "url": "https://www.hilton.com/en/locations/mexico/san-jose-del-cabo/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "San Juan Del Rio",
+    "url": "https://www.hilton.com/en/locations/mexico/san-juan-del-rio/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "San Luis Potosi",
+    "url": "https://www.hilton.com/en/locations/mexico/san-luis-potosi/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "San Miguel de Allende",
+    "url": "https://www.hilton.com/en/locations/mexico/san-miguel-de-allende/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "SanPedro Garza Garcia",
+    "url": "https://www.hilton.com/en/locations/mexico/garza-garcia/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Santa Fe",
+    "url": "https://www.hilton.com/en/locations/mexico/santa-fe/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Silao",
+    "url": "https://www.hilton.com/en/locations/mexico/silao/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Tampico",
+    "url": "https://www.hilton.com/en/locations/mexico/tampico/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Tijuana",
+    "url": "https://www.hilton.com/en/locations/mexico/tijuana/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Tlalpan",
+    "url": "https://www.hilton.com/en/locations/mexico/tlalpan/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Todos Santos",
+    "url": "https://www.hilton.com/en/locations/mexico/todos-santos/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Toluca",
+    "url": "https://www.hilton.com/en/locations/mexico/toluca/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Torreon",
+    "url": "https://www.hilton.com/en/locations/mexico/torreon/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Tulum",
+    "url": "https://www.hilton.com/en/locations/mexico/tulum/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Tuxtla Gutierrez",
+    "url": "https://www.hilton.com/en/locations/mexico/tuxtla-gutierrez/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Uruapan",
+    "url": "https://www.hilton.com/en/locations/mexico/uruapan/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Veracruz",
+    "url": "https://www.hilton.com/en/locations/mexico/veracruz/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Villahermosa",
+    "url": "https://www.hilton.com/en/locations/mexico/villahermosa/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Zacatecas",
+    "url": "https://www.hilton.com/en/locations/mexico/zacatecas/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Zihuatanejo",
+    "url": "https://www.hilton.com/en/locations/mexico/zihuatanejo/"
+  },
+  {
+    "continent": "North America",
+    "location_name": "Zihuatanejo. Gro",
+    "url": "https://www.hilton.com/en/locations/mexico/zihuatanejo/"
+  },
+  {
+    "continent": "Caribbean",
+    "location_name": "Explore California",
+    "url": "https://www.hilton.com/en/destination-guides/california/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Europe Search",
+    "url": "https://www.hilton.com/en/locations/europe/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Albania",
+    "url": "https://www.hilton.com/en/locations/albania/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Andorra",
+    "url": "https://www.hilton.com/en/locations/andorra/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Austria",
+    "url": "https://www.hilton.com/en/locations/austria/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Belarus",
+    "url": "https://www.hilton.com/en/locations/belarus/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Belgium",
+    "url": "https://www.hilton.com/en/locations/belgium/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Bulgaria",
+    "url": "https://www.hilton.com/en/locations/bulgaria/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Croatia",
+    "url": "https://www.hilton.com/en/locations/croatia/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Czech Republic",
+    "url": "https://www.hilton.com/en/locations/czech-republic/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Denmark",
+    "url": "https://www.hilton.com/en/locations/denmark/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Estonia",
+    "url": "https://www.hilton.com/en/locations/estonia/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Faroe Islands",
+    "url": "https://www.hilton.com/en/locations/faroe-islands/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Finland",
+    "url": "https://www.hilton.com/en/locations/finland/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "France",
+    "url": "https://www.hilton.com/en/locations/france/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Germany",
+    "url": "https://www.hilton.com/en/locations/germany/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Greece",
+    "url": "https://www.hilton.com/en/locations/greece/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Hungary",
+    "url": "https://www.hilton.com/en/locations/hungary/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Iceland",
+    "url": "https://www.hilton.com/en/locations/iceland/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Ireland",
+    "url": "https://www.hilton.com/en/locations/ireland/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Italy",
+    "url": "https://www.hilton.com/en/locations/italy/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Jersey",
+    "url": "https://www.hilton.com/en/locations/jersey/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Kosovo",
+    "url": "https://www.hilton.com/en/locations/kosovo/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Latvia",
+    "url": "https://www.hilton.com/en/locations/latvia/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Lithuania",
+    "url": "https://www.hilton.com/en/locations/lithuania/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Luxembourg",
+    "url": "https://www.hilton.com/en/locations/luxembourg/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Malta",
+    "url": "https://www.hilton.com/en/locations/malta/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Monaco",
+    "url": "https://www.hilton.com/en/locations/monaco/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Montenegro",
+    "url": "https://www.hilton.com/en/locations/montenegro/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Netherlands",
+    "url": "https://www.hilton.com/en/locations/netherlands/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "North Macedonia",
+    "url": "https://www.hilton.com/en/locations/north-macedonia/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Norway",
+    "url": "https://www.hilton.com/en/locations/norway/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Poland",
+    "url": "https://www.hilton.com/en/locations/poland/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Portugal",
+    "url": "https://www.hilton.com/en/locations/portugal/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Romania",
+    "url": "https://www.hilton.com/en/locations/romania/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Russian Federation",
+    "url": "https://www.hilton.com/en/locations/russian-federation/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Serbia",
+    "url": "https://www.hilton.com/en/locations/serbia/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Slovakia",
+    "url": "https://www.hilton.com/en/locations/slovakia/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Slovenia",
+    "url": "https://www.hilton.com/en/locations/slovenia/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Spain",
+    "url": "https://www.hilton.com/en/locations/spain/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Sweden",
+    "url": "https://www.hilton.com/en/locations/sweden/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Switzerland",
+    "url": "https://www.hilton.com/en/locations/switzerland/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Türkiye",
+    "url": "https://www.hilton.com/en/locations/turkiye/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "Ukraine",
+    "url": "https://www.hilton.com/en/locations/ukraine/"
+  },
+  {
+    "continent": "Europe",
+    "location_name": "United Kingdom",
+    "url": "https://www.hilton.com/en/locations/united-kingdom/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Middle East Search",
+    "url": "https://www.hilton.com/en/locations/middle-east/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Armenia",
+    "url": "https://www.hilton.com/en/locations/armenia/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Azerbaijan",
+    "url": "https://www.hilton.com/en/locations/azerbaijan/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Bahrain",
+    "url": "https://www.hilton.com/en/locations/bahrain/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Cyprus",
+    "url": "https://www.hilton.com/en/locations/cyprus/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Georgia",
+    "url": "https://www.hilton.com/en/locations/georgia/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Israel",
+    "url": "https://www.hilton.com/en/locations/israel/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Jordan",
+    "url": "https://www.hilton.com/en/locations/jordan/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Kuwait",
+    "url": "https://www.hilton.com/en/locations/kuwait/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Lebanon",
+    "url": "https://www.hilton.com/en/locations/lebanon/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Oman",
+    "url": "https://www.hilton.com/en/locations/oman/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Qatar",
+    "url": "https://www.hilton.com/en/locations/qatar/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "Saudi Arabia",
+    "url": "https://www.hilton.com/en/locations/saudi-arabia/"
+  },
+  {
+    "continent": "Middle East",
+    "location_name": "United Arab Emirates",
+    "url": "https://www.hilton.com/en/locations/uae/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Africa Search",
+    "url": "https://www.hilton.com/en/locations/africa/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Botswana",
+    "url": "https://www.hilton.com/en/locations/botswana/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Cabo Verde",
+    "url": "https://www.hilton.com/en/locations/cabo-verde/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Cameroon",
+    "url": "https://www.hilton.com/en/locations/cameroon/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Democratic Republic of the Congo",
+    "url": "https://www.hilton.com/en/locations/democratic-republic-of-the-congo/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Egypt",
+    "url": "https://www.hilton.com/en/locations/egypt/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Eswatini",
+    "url": "https://www.hilton.com/en/locations/eswatini/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Ethiopia",
+    "url": "https://www.hilton.com/en/locations/ethiopia/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Ghana",
+    "url": "https://www.hilton.com/en/locations/ghana/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Kenya",
+    "url": "https://www.hilton.com/en/locations/kenya/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Mauritius",
+    "url": "https://www.hilton.com/en/locations/mauritius/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Morocco",
+    "url": "https://www.hilton.com/en/locations/morocco/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Namibia",
+    "url": "https://www.hilton.com/en/locations/namibia/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Nigeria",
+    "url": "https://www.hilton.com/en/locations/nigeria/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Rwanda",
+    "url": "https://www.hilton.com/en/locations/rwanda/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Saint Tome and Principe",
+    "url": "https://www.hilton.com/en/locations/saint-tome-and-principe/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Seychelles",
+    "url": "https://www.hilton.com/en/locations/seychelles/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "South Africa",
+    "url": "https://www.hilton.com/en/locations/south-africa/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Tanzania",
+    "url": "https://www.hilton.com/en/locations/tanzania/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "The Republic of Congo",
+    "url": "https://www.hilton.com/en/locations/the-republic-of-congo/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Tunisia",
+    "url": "https://www.hilton.com/en/locations/tunisia/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Uganda",
+    "url": "https://www.hilton.com/en/locations/uganda/"
+  },
+  {
+    "continent": "Africa",
+    "location_name": "Zambia",
+    "url": "https://www.hilton.com/en/locations/zambia/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Asia Search",
+    "url": "https://www.hilton.com/en/locations/asia/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Bhutan",
+    "url": "https://www.hilton.com/en/locations/bhutan/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Cambodia",
+    "url": "https://www.hilton.com/en/locations/cambodia/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "China",
+    "url": "https://www.hilton.com/en/locations/china/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Hong Kong",
+    "url": "https://www.hilton.com/en/locations/hong-kong/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "India",
+    "url": "https://www.hilton.com/en/locations/india/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Indonesia",
+    "url": "https://www.hilton.com/en/locations/indonesia/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Japan",
+    "url": "https://www.hilton.com/en/locations/japan/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Kazakhstan",
+    "url": "https://www.hilton.com/en/locations/kazakhstan/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Laos",
+    "url": "https://www.hilton.com/en/locations/laos/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Macao",
+    "url": "https://www.hilton.com/en/locations/macao/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Malaysia",
+    "url": "https://www.hilton.com/en/locations/malaysia/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Maldives",
+    "url": "https://www.hilton.com/en/locations/maldives/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Myanmar",
+    "url": "https://www.hilton.com/en/locations/myanmar/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Nepal",
+    "url": "https://www.hilton.com/en/locations/nepal/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Pakistan",
+    "url": "https://www.hilton.com/en/locations/pakistan/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Philippines",
+    "url": "https://www.hilton.com/en/locations/philippines/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Singapore",
+    "url": "https://www.hilton.com/en/locations/singapore/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "South Korea",
+    "url": "https://www.hilton.com/en/locations/south-korea/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Sri Lanka",
+    "url": "https://www.hilton.com/en/locations/sri-lanka/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Taiwan",
+    "url": "https://www.hilton.com/en/locations/taiwan/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Tajikistan",
+    "url": "https://www.hilton.com/en/locations/tajikistan/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Thailand",
+    "url": "https://www.hilton.com/en/locations/thailand/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Uzbekistan",
+    "url": "https://www.hilton.com/en/locations/uzbekistan/"
+  },
+  {
+    "continent": "Asia",
+    "location_name": "Vietnam",
+    "url": "https://www.hilton.com/en/locations/vietnam/"
+  },
+  {
+    "continent": "Pacific Islands and Australia",
+    "location_name": "Pacific Islands and Australia Search",
+    "url": "https://www.hilton.com/en/locations/pacific-islands-and-australia/"
+  },
+  {
+    "continent": "Pacific Islands and Australia",
+    "location_name": "Australia",
+    "url": "https://www.hilton.com/en/locations/australia/"
+  },
+  {
+    "continent": "Pacific Islands and Australia",
+    "location_name": "Fiji",
+    "url": "https://www.hilton.com/en/locations/fiji/"
+  },
+  {
+    "continent": "Pacific Islands and Australia",
+    "location_name": "French Polynesia",
+    "url": "https://www.hilton.com/en/locations/french-polynesia/"
+  },
+  {
+    "continent": "Pacific Islands and Australia",
+    "location_name": "Guam",
+    "url": "https://www.hilton.com/en/locations/guam/"
+  },
+  {
+    "continent": "Pacific Islands and Australia",
+    "location_name": "New Caledonia (French)",
+    "url": "https://www.hilton.com/en/locations/new-caledonia-french/"
+  },
+  {
+    "continent": "Pacific Islands and Australia",
+    "location_name": "New Zealand",
+    "url": "https://www.hilton.com/en/locations/new-zealand/"
+  },
+  {
+    "continent": "Pacific Islands and Australia",
+    "location_name": "Papua New Guinea",
+    "url": "https://www.hilton.com/en/locations/papua-new-guinea/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Mediterranean Search",
+    "url": "https://www.hilton.com/en/locations/mediterranean/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Albania",
+    "url": "https://www.hilton.com/en/locations/albania/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Croatia",
+    "url": "https://www.hilton.com/en/locations/croatia/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Cyprus",
+    "url": "https://www.hilton.com/en/locations/cyprus/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Egypt",
+    "url": "https://www.hilton.com/en/locations/egypt/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "France",
+    "url": "https://www.hilton.com/en/locations/france/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Greece",
+    "url": "https://www.hilton.com/en/locations/greece/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Israel",
+    "url": "https://www.hilton.com/en/locations/israel/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Italy",
+    "url": "https://www.hilton.com/en/locations/italy/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Lebanon",
+    "url": "https://www.hilton.com/en/locations/lebanon/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Malta",
+    "url": "https://www.hilton.com/en/locations/malta/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Monaco",
+    "url": "https://www.hilton.com/en/locations/monaco/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Montenegro",
+    "url": "https://www.hilton.com/en/locations/montenegro/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Morocco",
+    "url": "https://www.hilton.com/en/locations/morocco/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Slovenia",
+    "url": "https://www.hilton.com/en/locations/slovenia/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Spain",
+    "url": "https://www.hilton.com/en/locations/spain/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Tunisia",
+    "url": "https://www.hilton.com/en/locations/tunisia/"
+  },
+  {
+    "continent": "Mediterranean",
+    "location_name": "Türkiye",
+    "url": "https://www.hilton.com/en/locations/turkiye/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Latin America Search",
+    "url": "https://www.hilton.com/en/locations/latin-america/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Argentina",
+    "url": "https://www.hilton.com/en/locations/argentina/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Belize",
+    "url": "https://www.hilton.com/en/locations/belize/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Bolivia",
+    "url": "https://www.hilton.com/en/locations/bolivia/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Brazil",
+    "url": "https://www.hilton.com/en/locations/brazil/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Chile",
+    "url": "https://www.hilton.com/en/locations/chile/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Colombia",
+    "url": "https://www.hilton.com/en/locations/colombia/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Costa Rica",
+    "url": "https://www.hilton.com/en/locations/costa-rica/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Ecuador",
+    "url": "https://www.hilton.com/en/locations/ecuador/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "El Salvador",
+    "url": "https://www.hilton.com/en/locations/el-salvador/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Guatemala",
+    "url": "https://www.hilton.com/en/locations/guatemala/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Honduras",
+    "url": "https://www.hilton.com/en/locations/honduras/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Mexico",
+    "url": "https://www.hilton.com/en/locations/mexico/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Nicaragua",
+    "url": "https://www.hilton.com/en/locations/nicaragua/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Panama",
+    "url": "https://www.hilton.com/en/locations/panama/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Paraguay",
+    "url": "https://www.hilton.com/en/locations/paraguay/"
+  },
+  {
+    "continent": "Latin America",
+    "location_name": "Peru",
+    "url": "https://www.hilton.com/en/locations/peru/"
+  }
+]
